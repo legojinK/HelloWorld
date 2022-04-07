@@ -4,17 +4,18 @@ public class Main {
 
     public static void main(String[] args) {
 
-//15596번
-//    long sum(int[] a) {
-//
-//        long sum = 0;
-//
-//        for (int i = 0; i < a.length; i++) {
-//            sum += a[i];
-//        }
-//        return sum;
-//
-//    }
+        //15596번
+        //    long sum(int[] a) {
+        //
+        //        long sum = 0;
+        //
+        //        for (int i = 0; i < a.length; i++) {
+        //            sum += a[i];
+        //        }
+        //        return sum;
+        //
+        //    }
+
         //1094번
         //막대기를 절반씩 계속 나누는 것을 반복
         //입력값과 비교
